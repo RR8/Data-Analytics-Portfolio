@@ -1,0 +1,1 @@
+Welcome to my data analytics project portfolio! Here you will find data projects showcasing my skills in various data methods and techniques, mostly focusing on solving business problems using Machine Learning!
