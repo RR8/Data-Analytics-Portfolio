@@ -1,0 +1,3 @@
+This project applies unsupervised machine learning to segment retail customers based on Recency, Frequency, and Monetary (RFM) metrics, alongside additional behavioral features such as tenure and cancellation rate.
+Multiple clustering algorithms, including K-Means, K-Medoids, Gaussian Mixture Models (GMM), DBSCAN, and HDBSCAN, were evaluated to identify meaningful customer segments.
+The final segmentation identifies four distinct customer groups: Occasional Customers, Cancelled Customers, High-Value Loyal Customers, and Regular High-Value Customers. The results provide insights into customer purchasing behavior and potential opportunities for customer retention and value growth.
